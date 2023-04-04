@@ -1,0 +1,281 @@
+body {
+    background: linear-gradient(180deg, rgba(253,253,249,1) 2%, rgba(246,246,251,1) 45%, rgba(236,239,239,1) 60%);
+    margin: 0;
+    padding: 0;
+    /* overflow-x: hidden; */
+    height: 100vh;
+}
+ .nav-item {
+    font-size: 17px;
+    font-weight:normal;
+    font-family: monteserrat;
+}
+ul {
+    margin: auto;
+}
+.logo {
+    height: 45px;
+    width: 200px;
+}
+.fa-magnifying-glass {
+        padding-right: 15px;
+
+}
+.fa-user{
+    padding-right: 15px;
+
+}
+.fa-cart-shopping {
+    padding-right: 15px;
+}
+/* Hero section */
+.hero-section{
+    margin-top: 3%;
+}
+.h-1 {
+    color:black;
+    font-size: 75px;
+    font-family: montserrat;
+    font-weight: 700;
+    line-height: 75px;
+}
+h2 {
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 25px;
+    font-family: montserrat;
+    color: black;
+    letter-spacing: 2px;
+    
+}
+.btn {
+    height :50px;
+    width :100px;
+}
+.btn-dark {
+    margin-top: 25px;
+    height:50px;
+    width: 200px;
+    padding: 6px 12px 6px 12px;
+    border-radius: 9px;
+}
+.btn-dark:hover{
+    animation: pulse;
+    animation-duration: 3s;
+}
+.shoes {
+    height: 450px;
+    width: 450px;
+    border-radius: 12px;
+    margin: auto;
+    display: block;
+    margin-left: 35%;
+    margin-top: -15%;
+}
+
+    
+body {
+    background: linear-gradient(180deg, rgba(253,253,249,1) 2%, rgba(246,246,251,1) 45%, rgba(236,239,239,1) 60%);
+    margin: 0;
+    padding: 0;
+    overflow-x: hidden;
+    position: absolute;
+    display: block;
+    left: 0%;
+    width: 100%;
+    
+}
+.container {
+    margin: 0 105px;
+}
+ .nav-item {
+    font-size: 17px;
+    font-weight:normal;
+    font: monteserrat;
+}
+ul {
+    margin: auto;
+}
+.logo {
+    height: 45px;
+    width: 200px;
+}
+.fa-magnifying-glass {
+        padding-right: 15px;
+
+}
+.fa-user{
+    padding-right: 15px;
+
+}
+.fa-cart-shopping {
+    padding-right: 15px;
+}
+/* Hero section */
+#hero {
+    margin-top: 3%;
+    margin-bottom: 30px;
+    position: relative;
+}
+.h-1 {
+    color:black;
+    font-size: 75px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+    line-height: 75px;
+}
+.h-2 {
+    font-size: 20px;
+    line-height: 25px;
+    margin-top: 25px;
+    font-family: montserrat;
+    color: black;
+}
+
+    
+.btn-dark {
+    margin-top: 25px;
+    height:50px;
+    width: 200px;
+    padding: 6px 12px 6px 12px;
+    border-radius: 9px;
+}
+.btn-dark:hover {
+    animation:  bounce;
+    animation-duration: 3s;
+}
+.fa-regular {
+    font-size :20px;
+    /* color: white; */
+}
+.shoes {
+    height: 450px;
+    width: 450px;
+    border-radius: 12px;
+    margin: auto;
+    display: block;
+    margin-left: 35%;
+    margin-top: -15%;
+}
+/*features section*/
+#features{
+    background-color: #f8f1ec;
+    position: relative;
+    padding-bottom: 40px;
+    margin-bottom: 40px;
+}
+.why {
+    padding-top: 30px;
+    padding-bottom: 50px;
+    margin-bottom: 0;
+    margin-left: 125px;
+}
+.shopping-bags{
+    text-align: center;
+} 
+.bags {
+    /* width: 546px;
+    height:480px; */
+    border-radius: 7px;
+}
+.Why-You-Should-Patronize-Us {
+    font-family: montserrat;
+}
+.wordings {
+    font-size: 20px;
+    text-align: left;
+    padding-left: 22px;
+    letter-spacing: 0px;   
+}
+/*---unique-3---*/
+.Aff-unboxed {
+    margin-top: 100px;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+.unique-3 {
+    font-family: montserrat;
+    font-weight: 700;
+}
+/*---Aff-images---*/
+.img-money-bill {
+    height:30px;
+    width: 30px;
+}
+.img-delivery-truck {
+    height:40px;
+    width: 40px;
+}
+.img-phone {
+    margin-left: 12px;
+    height:30px;
+    width: 30px;
+}
+
+/*---footer-section---*/
+#footer {
+    background-color: linear-gradient(180deg, rgba(253,253,249,1) 2%, rgba(246,246,251,1) 45%, rgba(236,239,239,1) 60%);
+    margin-top: 30px;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer-luxury {
+    font-family: montserrat;
+    letter-spacing: 1.5px;
+    font-weight: 800px;
+}
+.footer-logos {
+    padding-top: 35px;
+}
+.img-whatsapp, .img-twitter, .img-instagram {
+    height: 35px;
+    width: 35px;
+    margin: 0 15px;
+}
+.img-tiktok {
+    height: 40px;
+    width: 40px;
+    margin: 0 15px;
+}
+.unboxed-luxury {
+    margin-top: 20px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:1200px) { 
+    body{
+        max-width: 100%;
+        text-align: center;
+        overflow-x: hidden;
+    }
+    .h-1{
+        font-family: 'Montserrat', sans-serif;
+        font-size: 50px;
+        line-height: 1.5;
+        letter-spacing: 0.02rem;
+        font-weight: 900;
+    }
+    .shoes{
+        width: 250px;
+        height: 250px;
+        margin-top: 2%;
+    }
+}
